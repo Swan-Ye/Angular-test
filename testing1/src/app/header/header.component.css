@@ -1,0 +1,10 @@
+.nav-bar {
+    background-color: grey;
+    border: 5px;
+    font-size: 20px;
+}
+
+.logo {
+    display: flex;
+    align-items: flex-start;
+}
